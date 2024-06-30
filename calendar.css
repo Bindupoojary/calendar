@@ -7,7 +7,7 @@
   grid-template-rows: 80px 40px repeat(6, 110px);
   color: gray;
   font-family: sans-serif;
- }
+}
 
 .calendar-item {
   text-align: right;
@@ -55,6 +55,8 @@
   border-left: 4px solid rgb(172, 55, 13);
   color: rgb(172, 55, 13);
   background-color: rgb(245, 217, 165);
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
   text-align: left;
 }
 
